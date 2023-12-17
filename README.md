@@ -13,7 +13,3 @@ Skills: PHP / REACT / JAVA SCRIPT / HTML / CSS/ NEXT JS / MYSQL/Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamithudayanga)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shamithudayanga&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=shamithudayanga)  
-
