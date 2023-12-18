@@ -3,7 +3,7 @@
 
 am a dedicated full-stack developer with a passion for crafting innovative digital solutions. With years of experience in both front-end and back-end development, I thrive on turning ideas into functional, user-friendly applications. My expertise includes a wide range of programming languages and technologies, from HTML, CSS, and JavaScript for building intuitive user interfaces, to Python, Node.js, and Ruby on Rails for robust server-side development. 
 
-Skills: PHP / REACT / JAVA SCRIPT / HTML / CSS/ NEXT JS / MYSQL/Python
+Skills: PHP / REACT / JAVA SCRIPT / HTML / CSS/ NEXT JS / MYSQL/Python/Java
 
 - 🔭 I’m currently working on this page. 
 
